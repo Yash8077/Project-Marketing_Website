@@ -249,11 +249,13 @@ h2 {
     position:relative;
     left:1250px;
     top:-53px;
-    text-align:center
+    text-align:center;
+    cursor:pointer
 }
 .buttonjourney:hover {
     background-color:rgb(165, 58, 58);
     color: white;
+    
   }
 
 .team-img {
@@ -568,7 +570,11 @@ h2 {
     font-size: 20px;
     position:relative;
     left:150px;
-    top:10px
+    top:10px;
+    cursor:pointer
+}
+#demoreqbutton:hover{
+    transform: scale(1.03);
 }
 .consult-img{
     position: relative;
@@ -968,12 +974,15 @@ h2 {
     position:relative;
     left:1250px;
     top:-53px;
-    text-align:center
+    text-align:center;
+    cursor:pointer
 }
 .buttonjourneysoc:hover{
     background-color: aliceblue;
     color: rgb(35, 40, 57);
     transform: scale(1.2);
 }
-
+#homebuttoncolor{
+    color:rgb(255, 78, 78)
+}
 
