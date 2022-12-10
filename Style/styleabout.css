@@ -116,7 +116,6 @@ h2 {
     padding-top:200px;
 }
 .aboutushead{
-    background-color: aqua;
     text-align: center;
     position: relative;
     top:-80px;
@@ -147,4 +146,10 @@ h2 {
     font-size: 24px;
     position: relative;
     top:-80px
+}
+#about1img{
+    position: relative;
+    top:-140px;
+    left:150px;
+    border-radius: 40px;
 }
