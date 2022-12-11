@@ -305,3 +305,10 @@ h2 {
 #fconemail{
     color:darkslategray
 }
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}

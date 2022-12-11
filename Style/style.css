@@ -206,7 +206,7 @@ h2 {
     font-size: 30px;
     position:relative;
     left:42%;
-    top:-1000px;
+    top:-966px;
     cursor: pointer;
   } 
   .buttonwho:hover {
@@ -990,4 +990,65 @@ h2 {
 
 #demobooktag{
     color:rgb(255, 78, 78)
+}
+#service_button1
+{
+    position:relative;
+    top: -1032px;
+    left: 374px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: darkslategray;
+    color: white;
+    cursor: pointer;
+}
+#service_button1:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#service_button2
+{
+    position:relative;
+    top: -1032px;
+    left: 399px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: darkslategray;
+    color: white;
+    cursor: pointer;
+}
+#service_button2:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#service_button3
+{
+    position:relative;
+    top: -1032px;
+    left: 424px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: darkslategray;
+    color: white;
+    cursor: pointer;
+}
+#service_button3:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
 }

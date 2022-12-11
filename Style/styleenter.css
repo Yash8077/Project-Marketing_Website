@@ -315,3 +315,14 @@ ul.listbusiness{
     padding:100px;
     padding-top:200px;
 }
+#selectedn{
+    color:rgb(109, 255, 131)
+}
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}
+

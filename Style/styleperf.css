@@ -367,3 +367,10 @@ html, body {
     padding: 0;
     overflow-x: hidden;
 }
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}
