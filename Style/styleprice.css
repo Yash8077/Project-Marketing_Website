@@ -59,7 +59,8 @@ a {
     font-size: 15px;
     position:relative;
     left:100px;
-    top:-52px
+    top:-52px;
+    cursor: pointer;
   }
 
 h2 {
@@ -104,7 +105,8 @@ h2 {
     left:164px;
     top:-73px;
     text-align:center;
-    width:300px
+    width:300px;
+    cursor: pointer;
 }
 .buttonp1:hover {
     background-color:darkslategray;
@@ -127,7 +129,8 @@ h2 {
     left:607px;
     top:-133px;
     text-align:center;
-    width:300px
+    width:300px;
+    cursor: pointer;
 }
 .buttonp2:hover {
     background-color:rgb(40, 112, 228);
@@ -150,7 +153,8 @@ h2 {
     left:1050px;
     top:-196px;
     text-align:center;
-    width:300px
+    width:300px;
+    cursor: pointer;
 }
 .buttonp3:hover {
     background-color:rgb(228, 93, 40);
@@ -249,7 +253,8 @@ ul.listbusiness{
     left:25px;
     top:-220px;
     width:300px;
-    opacity:80%
+    opacity:80%;
+    cursor: pointer;
 }
 .buttonperf:hover{
     transform: scale(1.1);
@@ -297,7 +302,8 @@ ul.listbusiness{
     position:relative;
     left:1250px;
     top:-53px;
-    text-align:center
+    text-align:center;
+    cursor: pointer;
 }
 .buttonjourney:hover {
     background-color:rgb(165, 58, 58);

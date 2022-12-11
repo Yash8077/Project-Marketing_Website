@@ -47,7 +47,8 @@ h2 {
     font-size: 15px;
     position:relative;
     left:100px;
-    top:-52px
+    top:-52px;
+    cursor:pointer
   }
 .perfhbg{
     position:relative;
@@ -156,7 +157,8 @@ h2 {
     left:600px;
     top:-400px;
     width:300px;
-    opacity:80%
+    opacity:80%;
+    cursor:pointer
 }
 .buttonperf:hover{
     transform: scale(1.03)
@@ -189,7 +191,8 @@ h2 {
     position:relative;
     left:1250px;
     top:-53px;
-    text-align:center
+    text-align:center;
+    cursor:pointer
 }
 .buttonjourneyperf:hover{
     background-color: aliceblue;
