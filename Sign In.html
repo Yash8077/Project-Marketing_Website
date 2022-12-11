@@ -8,6 +8,12 @@
     <title>PLACEHOLDER | Creative Content Marketing Agency</title>
     <link href="Style\style.css" rel="stylesheet">
 </head>
+<script>
+    function abc()
+    {
+        window.alert("When You are signed In successfully, you will be redirected to home.");
+    } 
+</script>
 
 
 <body bgcolor="#e6fafa" background="img\signinbg.jpg" id="bgsize">
@@ -29,15 +35,17 @@
         </ul>
     </nav>
     <div class="sign-in-box">
+        <form action="Marketing.html" autocomplete="on">
         <img src="img\lock.png" width="10%" height="10%" id="fingerlock"><br>
         <label for="logemail" class="llogemail">Email Address*</label><br>
         <input type="email" id="logemail" name="logemail" required><br><br>
         <label for ="passw" class="lpassw">Password*</label><br>
         <input type="password" id="passw" name="passw" required><br><br>
         <input type="checkbox" id="cblogin" name="cblogin" required>
-        <label for="cblogin" class="lcblogin">I agree with terms & conditions</label><br><br>
-        <input type="submit" value="LOGIN" id="loginbutton">
+        <label for="cblogin" class="lcblogin" required>I agree with terms & conditions</label><br><br>
+        <input type="submit" value="LOGIN" onclick="abc()" id="loginbutton">
         <p class="noacc">Don't have an account? <a href="Sign Up.html"><u>Sign Up</u></a></p>
+        </form>
     </div>
 
     

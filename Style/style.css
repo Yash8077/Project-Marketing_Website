@@ -176,7 +176,7 @@ h2 {
     border-color:white;
     background-color: darkslategray;
     color: white;
-
+    cursor: pointer;
 }
 #submit_button:hover{
     background-color:rgb(165, 58, 58);
@@ -207,6 +207,7 @@ h2 {
     position:relative;
     left:42%;
     top:-1000px;
+    cursor: pointer;
   } 
   .buttonwho:hover {
     background-color: darkslategray;
@@ -696,7 +697,7 @@ h2 {
     left:38px;
     top:55px;
     width:300px;
-
+    cursor: pointer;
 }
 .lcblogin{
     color: white;
@@ -741,7 +742,7 @@ h2 {
     left:38px;
     top:20px;
     width:300px;
-
+    cursor: pointer;
 }
 #cbsignup{
     background-color: darkslategray;
@@ -850,7 +851,8 @@ h2 {
     left:600px;
     top:-400px;
     width:300px;
-    opacity:80%
+    opacity:80%;
+    cursor: pointer;
 }
 .buttonsmm:hover{
     transform: scale(1.03)
@@ -986,3 +988,6 @@ h2 {
     color:rgb(255, 78, 78)
 }
 
+#demobooktag{
+    color:rgb(255, 78, 78)
+}
