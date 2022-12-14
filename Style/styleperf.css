@@ -365,7 +365,6 @@ a {
 html, body {
     margin: 0px;
     padding: 0;
-    overflow-x: hidden;
 }
 .TaleSpin{
     position: absolute;
